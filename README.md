@@ -4,14 +4,15 @@
 
 ---
 
-### :woman_technologist: Обо мне:
-Разработчик и гейм-дизайнер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+### Обо мне:
+Middle lua разработчик и гейм-дизайнер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
 
-- :telescope: Разрабатываю сервера и механики для серверов в Garry's Mod
 
-- :seedling: Осваиваю hammer++ и в будущем буду делать помимо скриптов еще и карты
+<a href="imdiz.ru">
+      <img src="https://i.imgur.com/Uih0SNW.png" alt="Иконка">
+</a>
 
-- :zap: В свободное время пишу музыку/играю в игры
+
 
 ---
 
