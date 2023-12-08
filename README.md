@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&size=50&pause=1000&width=560&height=100&lines=Middle+Lua+Developer)](https://vk.com/zaebalo_eto_vse)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=C%23+LUA+PYTHON+JS+HTML+CSS)]
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REBOULT&theme=solarized_dark)
 
