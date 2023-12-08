@@ -27,7 +27,7 @@ Middle lua разработчик и гейм-дизайнер <img src="https:/
 
 ---
 
-### :hammer_and_wrench: Какие языки программирования я знаю/изучаю :
+### <div> <img src="https://i.imgur.com/xncKtwO.gif"  title="" alt="" width="40" height="40"/>&nbsp;</div> Какие языки программирования я знаю/изучаю :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
