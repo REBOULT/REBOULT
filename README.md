@@ -9,19 +9,19 @@ Middle lua разработчик и гейм-дизайнер <img src="https:/
 
 
 <a href="https://steamcommunity.com/profiles/76561198970183891">
-      <img src="https://i.imgur.com/ljuK2HA.png" alt="">
+      <img src="https://i.imgur.com/Sy1Z1xw.png" alt="">
 </a>
 
 <a href="https://vk.com/zaebalo_eto_vse">
-      <img src="https://i.imgur.com/xVKJJpr.png" alt="">
+      <img src="https://i.imgur.com/U6DLxmQ.png" alt="">
 </a>
 
 <a href="https://www.youtube.com/channel/UCqcZP8fTfF15jb6nApcdh8w">
-      <img src="https://i.imgur.com/KOvc5Ys.png" alt="">
+      <img src="https://i.imgur.com/X0yv7zG.png" alt="">
 </a>
 
 <a href="https://discord.gg/fZgE8zn2Ad">
-      <img src="https://i.imgur.com/Uih0SNW.png" alt="">
+      <img src="https://i.imgur.com/JVcSIfy.png" alt="">
 </a>
 
 
