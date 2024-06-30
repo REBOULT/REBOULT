@@ -5,7 +5,7 @@
 ---
 
 ### Обо мне:
-Middle lua разработчик и гейм-дизайнер <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+Middle: Lua/Py/TS/JS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
 <a href="https://steamcommunity.com/profiles/76561198970183891">
@@ -16,20 +16,17 @@ Middle lua разработчик и гейм-дизайнер <img src="https:/
       <img src="https://i.imgur.com/U6DLxmQ.png" alt="">
 </a>
 
-<a href="https://www.youtube.com/channel/UCqcZP8fTfF15jb6nApcdh8w">
-      <img src="https://i.imgur.com/X0yv7zG.png" alt="">
+<a href="https://t.me/seromne">
+      <img src="https://i.imgur.com/VwYJNH8.png" alt="">
 </a>
 
-<a href="https://discord.gg/fZgE8zn2Ad">
-      <img src="https://i.imgur.com/JVcSIfy.png" alt="">
-</a>
 
 
 ---
 
-### <div> <img src="https://i.imgur.com/xncKtwO.gif"  title="" alt="" width="40" height="40"/>&nbsp;</div> Какие языки программирования я знаю/изучаю :
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
