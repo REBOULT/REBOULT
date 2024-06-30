@@ -17,7 +17,7 @@ Middle: Lua/Py/TS/JS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 </a>
 
 <a href="https://t.me/seromne">
-      <img src="https://i.imgur.com/VwYJNH8.png" alt="">
+      <img src="https://i.imgur.com/6YGctcF.png" alt="">
 </a>
 
 
